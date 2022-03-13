@@ -30,6 +30,8 @@ meme <- c(first_row, second_row) %>%
   image_append(stack = TRUE)
 ```
 
+<style>
+  {background-color: #e5a8c5}
 **What was the motivation for creating my meme?**
 1. I was inspired to make a meme about RStudio given that I use the platform in two courses
 2. I wanted to make a meme that anyone who has or is starting out in R can relate to 
