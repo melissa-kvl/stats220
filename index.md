@@ -36,7 +36,7 @@ meme <- c(first_row, second_row) %>%
 3. I wanted to have some fun with the meme because it is not often that we get an assignment this awesome!
 
 **How is my meme original?**
-* I based the meme format off the popular one (pictured below) however I changed the puppet to dogs because I love big dogs :)
+* I based the meme format off the popular one (pictured below) however I changed the puppet to dogs because I love big dogs :grin:
 * I also made the meme about a subject which I have never seen a meme about before
 
 ![Meme inspiration](https://imgflip.com/s/meme/Monkey-Puppet.jpg)
