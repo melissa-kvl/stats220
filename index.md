@@ -1,7 +1,7 @@
 # My Meme
 ## Made in RStudio, about RStudio - A beginner student's outlet for frustration
 
-body {background-color: #ffbbcc}
+p {background-color: #ffbbcc}
 
 ![my_meme](https://user-images.githubusercontent.com/100824050/158041988-f2eecf52-2018-42be-b75f-464dbc15b977.png)
 
@@ -38,7 +38,7 @@ meme <- c(first_row, second_row) %>%
 3. I wanted to have some fun with the meme because it is not often that we get an assignment this awesome!
 
 **How is my meme original?**
-* (I based the meme format off the popular one (pictured below) however I changed the puppet to dogs because I love big dogs :))
-* (I also made the meme about a subject which I have never seen a meme about before)
+* I based the meme format off the popular one (pictured below) however I changed the puppet to dogs because I love big dogs :)
+* I also made the meme about a subject which I have never seen a meme about before
 
 ![Meme inspiration](https://imgflip.com/s/meme/Monkey-Puppet.jpg)
