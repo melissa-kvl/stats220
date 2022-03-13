@@ -1,12 +1,11 @@
 # My Meme
 ## Made in RStudio, about RStudio - A beginner student's outlet for frustration
 
-<body>
-  background-color: #ffbbcc
+body {background-color: #ffbbcc}
 
 ![my_meme](https://user-images.githubusercontent.com/100824050/158041988-f2eecf52-2018-42be-b75f-464dbc15b977.png)
 
-*(I made this meme using the code below)*
+*I made this meme using the code below*
 ```
 library(magick)
 caption <- image_blank(width = 600,
@@ -33,12 +32,12 @@ meme <- c(first_row, second_row) %>%
   image_append(stack = TRUE)
 ```
 
-**(What was the motivation for creating my meme?)**
+**What was the motivation for creating my meme?**
 1. I was inspired to make a meme about RStudio given that I use the platform in two courses
 2. I wanted to make a meme that anyone who has or is starting out in R can relate to 
 3. I wanted to have some fun with the meme because it is not often that we get an assignment this awesome!
 
-**(How is my meme original?)**
+**How is my meme original?**
 * (I based the meme format off the popular one (pictured below) however I changed the puppet to dogs because I love big dogs :))
 * (I also made the meme about a subject which I have never seen a meme about before)
 
