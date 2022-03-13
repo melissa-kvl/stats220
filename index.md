@@ -5,7 +5,6 @@
 
 *I made this meme using the code below*
 ```
-p {background-color: #ffbbcc}
 library(magick)
 caption <- image_blank(width = 600,
                       height = 300,
