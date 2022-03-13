@@ -1,4 +1,3 @@
-h1{background-color: #e5a8c5}
 # My Meme
 ## *Made in RStudio, about RStudio - A beginner student's outlet for frustration*
 
