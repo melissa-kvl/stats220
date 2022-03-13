@@ -1,5 +1,5 @@
 # My Meme
-## Made in RStudio, about RStudio - A beginner student's outlet for frustration
+## *Made in RStudio, about RStudio - A beginner student's outlet for frustration*
 
 ![my_meme](https://user-images.githubusercontent.com/100824050/158041988-f2eecf52-2018-42be-b75f-464dbc15b977.png)
 
