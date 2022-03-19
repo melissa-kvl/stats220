@@ -3,6 +3,6 @@
 **I created this repo for my statistics project at the University of Auckland**
 * *I will use it to display the meme I created for my first assignment*
 * *Information on why I created the meme*
-* *Information on how the meme is original*
+* *How the meme is original*
 
 **My Website: https://melissa-kvl.github.io/stats220/**
