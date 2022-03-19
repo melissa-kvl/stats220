@@ -1,12 +1,5 @@
 # My Meme
-## *Made in RStudio, about RStudio - A beginner student's outlet for frustration*
-
-``` {css}
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:wght@200;400&display=swap');
-body {font-family: 'Noto Serif Display', serif; font-weight: bold}
-
-h2{color: #95129b; background-color: #adc5f5}
-```
+## *Made in RStudio, about RStudio - A beginner student's outlet for frustration*`
 
 ![](my_meme.png)
 
