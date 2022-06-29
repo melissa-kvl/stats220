@@ -1,5 +1,5 @@
 # My Meme
-## *Made in RStudio, about RStudio - A beginner student's outlet for frustration*`
+## *Made in RStudio, about RStudio - A beginner student's outlet for frustration*
 
 ![](my_meme.png)
 
@@ -31,7 +31,7 @@ meme <- c(first_row, second_row) %>%
 ```
 
 *** **What was the motivation for creating my meme?** ***
-1. I was inspired to make a meme about RStudio given that I use the platform in two courses
+1. I was inspired to make a meme about RStudio given that I use the platform frequently
 2. I wanted to make a meme that anyone who has or is starting out in R can relate to 
 3. I wanted to have some fun with the meme because it is not often that we get an assignment this awesome!
 
