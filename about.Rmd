@@ -1,5 +1,0 @@
----
-title: "About This Website"
----
-<br>
-Stats 220 was an introduction to various data technologies such as R and Rmarkdown, HTML and CSS, API's and SQL. We were given the opportunity to create a variety of images and GIFs during the course. I have selected a few of my creations to display here. 
