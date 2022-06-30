@@ -1,5 +1,0 @@
----
-title: "STATS 220 at The University of Auckland"
----
-## Introduction To Data Technologies
-### Semester 1 2022
