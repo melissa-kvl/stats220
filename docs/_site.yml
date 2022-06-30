@@ -1,6 +1,6 @@
 name: "my-website"
-output-dir: ".docs"
-exclude: [".docs"]
+output-dir: "docs"
+exclude: ["docs"]
 navbar:
   title: "STATS 220"
   left:
