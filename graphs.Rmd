@@ -1,0 +1,7 @@
+---
+title: "Graphs (ggplot2)"
+---
+<br>
+I created this visualization using data I scraped from the Apple Top 100 website. 
+
+![](song_vis.png)

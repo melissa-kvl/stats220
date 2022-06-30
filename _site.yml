@@ -1,0 +1,19 @@
+name: "my-website"
+output-dir: ".docs"
+exclude: [".docs"]
+navbar:
+  title: "STATS 220"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "GIFs"
+      href: gifs.html
+    - text: "Graphs"
+      href: graphs.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css
